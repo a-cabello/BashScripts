@@ -10,7 +10,11 @@ In this README, you can see how each one is implemented and what function it per
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-(2) Run the script
+(2) Move to the directory
+```bash
+cd BashScripts
+```
+(3) Run the script
 ```bash
 ./hostScan.sh
 ```
