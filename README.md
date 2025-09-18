@@ -8,7 +8,7 @@ In this README, you can see how each one is implemented and what function it per
 
 (1) Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git](https://github.com/a-cabello/BashScripts.git
+git clone https://github.com/a-cabello/BashScripts.git
 ```
 (2) Run the script
 ```bash
