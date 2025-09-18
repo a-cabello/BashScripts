@@ -6,11 +6,11 @@ In this README, you can see how each one is implemented and what function it per
 <h2><b>hostScan</h2></b>
 <b>How do I try it?:</b>
 
-1: Clone the repository:
+(1) Clone the repository:
 ```bash
 git clone https://github.com/a-cabello/AirportManagementTerminal.git](https://github.com/a-cabello/BashScripts.git
 ```
-2: Run the script
+(2) Run the script
 ```bash
 ./hostScan.sh
 ```
@@ -18,11 +18,11 @@ git clone https://github.com/a-cabello/AirportManagementTerminal.git](https://gi
 <h2><b>htbmachines</h2></b>
 <b>How do I try it?:</b>
 
-1: Clone the repository:
+(1) Clone the repository:
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-2: Run it knowing you have different options:
+(2) Run the script knowing you have different options:
 
 ```bash
 ./htbmachines.sh
@@ -31,11 +31,11 @@ git clone https://github.com/a-cabello/BashScripts.git
 <h2><b>portScan</h2></b>
 <b>How do I try it?:</b>
 
-1: Clone the repository:
+(1) Clone the repository:
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-4: Run it
+(2) Run it
 ```bash
 ./portScan.sh
 ```
@@ -43,11 +43,11 @@ git clone https://github.com/a-cabello/BashScripts.git
 <h2><b>ruleta</h2></b>
 <b>How do I try it?:</b>
 
-1: Clone the repository:
+(1) Clone the repository:
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-4: Run it knowing you have different options
+(2) Run the script knowing you have different options
 ```bash
 ./ruleta.sh
 ```
