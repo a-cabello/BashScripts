@@ -8,19 +8,19 @@ In this README, you can see how each one is implemented and what function it per
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git
+git clone https://github.com/a-cabello/AirportManagementTerminal.git](https://github.com/a-cabello/BashScripts.git
 ```
 2: Run the script
 ```bash
 ./hostScan.sh
 ```
 
-<h2><b>htbmachines.sh</h2></b>
+<h2><b>htbmachines</h2></b>
 <b>How do I try it?:</b>
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git
+git clone https://github.com/a-cabello/BashScripts.git
 ```
 2: Run it knowing you have different options:
 
@@ -33,7 +33,7 @@ git clone https://github.com/a-cabello/AirportManagementTerminal.git
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git
+git clone https://github.com/a-cabello/BashScripts.git
 ```
 4: Run it
 ```bash
@@ -45,7 +45,7 @@ git clone https://github.com/a-cabello/AirportManagementTerminal.git
 
 1: Clone the repository:
 ```bash
-git clone https://github.com/a-cabello/AirportManagementTerminal.git
+git clone https://github.com/a-cabello/BashScripts.git
 ```
 4: Run it knowing you have different options
 ```bash
