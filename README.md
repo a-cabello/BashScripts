@@ -26,7 +26,11 @@ cd BashScripts
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-(2) Run the script knowing you have different options:
+(2) Move to the directory
+```bash
+cd BashScripts
+```
+(3) Run the script knowing you have different options:
 
 ```bash
 ./htbmachines.sh
@@ -39,7 +43,11 @@ git clone https://github.com/a-cabello/BashScripts.git
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-(2) Run it
+(2) Move to the directory
+```bash
+cd BashScripts
+```
+(3) Run it
 ```bash
 ./portScan.sh
 ```
@@ -51,7 +59,11 @@ git clone https://github.com/a-cabello/BashScripts.git
 ```bash
 git clone https://github.com/a-cabello/BashScripts.git
 ```
-(2) Run the script knowing you have different options
+(2) Move to the directory
+```bash
+cd BashScripts
+```
+(3) Run the script knowing you have different options
 ```bash
 ./ruleta.sh
 ```
